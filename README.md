@@ -42,6 +42,20 @@ This script will:
 - Show the current database and user information
 - Close the connection gracefully
 
+### Example Database Operations
+
+Run the example operations script to see basic database operations:
+
+```bash
+python example_operations.py
+```
+
+This script demonstrates:
+- Creating a sample table
+- Inserting sample data
+- Querying and displaying data
+- Optional cleanup (dropping the table)
+
 ### Example Output
 
 ```
